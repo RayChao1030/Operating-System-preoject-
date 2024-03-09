@@ -1,4 +1,6 @@
-Project_mid:  
+Final Project:   
+
+Mid Project:  
 Added a new system call identity to the Linux kernel, which outputs the string "Hello F14075011". This process involves:  
 1.Created an identity.c file containing the code to output the string.  
 2.Updated the kernel's Makefile to include the identity/ directory, ensuring that identity.o is compiled into the kernel.  

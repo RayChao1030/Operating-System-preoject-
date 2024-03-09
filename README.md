@@ -1,6 +1,10 @@
 Final Project:   
-**Chatroom**  
-
+**Chatroom in C**  
+![image](https://github.com/RayChao1030/Operating-System-preoject-/assets/76627328/5caa69d6-c397-4c25-a0f5-5418532615f5)
+Workflow in client:     
+![image](https://github.com/RayChao1030/Operating-System-preoject-/assets/76627328/2811dc7f-0624-4b43-a66c-20220fa7aeae)
+Workflow in server:  
+![image](https://github.com/RayChao1030/Operating-System-preoject-/assets/76627328/7b1eab07-31e3-4c57-9711-9dbc59666a29)
 Mid Project:  
 Added a new system call identity to the Linux kernel, which outputs the string "Hello F14075011". This process involves:  
 1.Created an identity.c file containing the code to output the string.  
